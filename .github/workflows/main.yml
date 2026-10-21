@@ -1,4 +1,4 @@
-name: Auto Render Fare Empire Video
+name: Auto Render Tollframe Video
 
 on:
   repository_dispatch:
